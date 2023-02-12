@@ -10,4 +10,4 @@
 | GPU              | ASUS RX580                                 |
 | Audio Chipset    | ALC-887                                    |
 | Ethernet         | Realtek RTL8111                            |
-| OS Disk (NVMe)   | Crucial MX500 500GB                        |
+| OS Disk(SATA)    | Crucial MX500 500GB                        |
